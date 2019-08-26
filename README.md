@@ -1,1 +1,5 @@
-# Hello this is a Readme!
+# Git Example Repo
+
+# AUTHORS
+
+Kristen Loyd
